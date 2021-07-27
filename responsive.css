@@ -1,0 +1,15 @@
+@media screen and (max-width:767px){
+    .wrapper .clock-area span{
+        font-size:5rem;
+    }
+    .wrapper .clock-area{
+        padding-top:100px;
+    }
+    #ampm {
+        font-size: 2rem;
+        padding-top: 65px;
+    }
+    h4{
+        font-size:3rem;
+    }
+}
